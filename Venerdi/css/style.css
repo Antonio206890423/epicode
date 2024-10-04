@@ -1,0 +1,107 @@
+*{
+ box-sizing: border-box;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.55;
+    text-align: center;
+    margin: 0;
+}
+
+.logo{
+    text-align: center;
+    background-color: black;
+}
+.logo1{
+    width: 250px;
+    padding: 2rem;
+}
+header{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    padding: 2rem;
+}
+header h1{
+    font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  font-style: bold;
+  color: #28a3ce;
+}
+
+header button{
+   color: white;
+   background-color: #f04b2e; 
+   text-align: center;
+   padding: 10px 23px;
+   border-radius: 5px;
+border-color: transparent;
+font-family: "Open Sans", sans-serif;
+font-size: 1rem;
+line-height: 1rem;;
+}
+
+body h3{
+    font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2;
+  font-style: bold;
+  color: #28a3ce;
+}
+.rosso{
+    background-color: rgb(219, 75, 30);
+    color: white;
+    padding: 2rem;
+}
+ article h2{
+    font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  font-style: bold;
+}
+article p{
+    font-style: italic;
+}
+
+.images1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+.images{
+width: 100%;
+height: auto;
+}
+section div{
+    border: solid #dee1e3;
+    margin: 43px;
+}
+
+footer{
+    background-color: #25a2c3;
+    color: white;
+
+}
+
+footer h5{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 650;
+    line-height: 3; 
+}
+footer {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.55;
+    text-align: center;
+    margin: 0;
+}
+hr{
+    margin-inline: 
+    7rem;
+}
